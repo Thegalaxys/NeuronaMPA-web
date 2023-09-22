@@ -55,3 +55,41 @@ a {
     background-color: white;
     border-radius: 10px;
 }
+
+.main_section_1 .section_1 {
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_section_1 .section_1 h1 {
+    font-size: 40px;
+}
+
+.main_section_2 .section_2 {
+    width: 100%;
+    height: 11vh;
+    border: 1px solid black;
+    display: flex;
+    text-align: center;
+}
+
+.main_section_2 .section_2 p {
+    font-size: 20px;
+}
+
+.main_section_3 .section_3 {
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.main_section_3 .section_3 p {
+    font-size: 20px;
+}
+
